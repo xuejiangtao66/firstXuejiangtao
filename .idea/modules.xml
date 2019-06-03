@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/leyou.iml" filepath="$PROJECT_DIR$/leyou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly_api_gateway/ly_api_gateway.iml" filepath="$PROJECT_DIR$/ly_api_gateway/ly_api_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly_common/ly_common.iml" filepath="$PROJECT_DIR$/ly_common/ly_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly_item/ly_item.iml" filepath="$PROJECT_DIR$/ly_item/ly_item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly_item/ly_item_interface/ly_item_interface.iml" filepath="$PROJECT_DIR$/ly_item/ly_item_interface/ly_item_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly_item/ly_item_service/ly_item_service.iml" filepath="$PROJECT_DIR$/ly_item/ly_item_service/ly_item_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly_registry/ly_registry.iml" filepath="$PROJECT_DIR$/ly_registry/ly_registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly_search/ly_search.iml" filepath="$PROJECT_DIR$/ly_search/ly_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly_sousuo/ly_sousuo.iml" filepath="$PROJECT_DIR$/ly_sousuo/ly_sousuo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ly_upload/ly_upload.iml" filepath="$PROJECT_DIR$/ly_upload/ly_upload.iml" />
+    </modules>
+  </component>
+</project>

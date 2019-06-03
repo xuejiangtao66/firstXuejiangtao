@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ly_api_geteway:war">
+    <output-path>$PROJECT_DIR$/ly_api_geteway/target</output-path>
+    <root id="archive" name="ly_api_geteway-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ly_api_geteway:war exploded" />
+    </root>
+  </artifact>
+</component>
